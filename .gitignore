@@ -1,0 +1,13 @@
+data/*
+!data/deleteme.txt
+
+local/*
+!local/deleteme.txt
+
+
+# Ignore Python bytecode files
+*.pyc
+__pycache__/
+
+# Ignore virtual environment directories
+.venv/
